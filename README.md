@@ -11,12 +11,11 @@ In this Code, I write about:
 ## Compatibility
 
 Written in Swift 5 and requires Xcode 11.0
-
 InstaBorder is compatible with iOS 13.0+.
+
+#### Have Fun 😁
 
 <h3 align="center">
 <img src="Border.gif" alt="Screenshot of InstaBorder for iOS"/>
 </h3>
-
-#### Have Fun
 
