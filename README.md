@@ -18,3 +18,5 @@ InstaBorder is compatible with iOS 13.0+.
 <img src="Border.gif" alt="Screenshot of InstaBorder for iOS"/>
 </h3>
 
+#### Have Fun
+
