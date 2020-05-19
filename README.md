@@ -2,6 +2,8 @@
 
 In this Code, I write about:
 
-Create your Instagram post with colourful borders.
-In which I have used UIPanGestureRecognizer & UIPinchGestureRecognizer.
-Save photo in your Library.
+## Info about Application 
+
+- Create your Instagram post with colourful borders.
+- I have used UIPanGestureRecognizer & UIPinchGestureRecognizer.
+- Save photo in your Photos Library.
